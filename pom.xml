@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://3.142.237.210:8081/repository/sam-release/</url> 
+	      <url> http://18.118.6.164:8081/repository/paypal-prob-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.142.237.210:8081/repository/sam-snapshot/</url>
+	      <url>http:http://18.118.6.164:8081/repository/paypal-prob-snapshots//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
